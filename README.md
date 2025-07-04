@@ -2,6 +2,9 @@
 
 This tool monitors Meshtastic UDP packets, decodes them, and saves the decoded data in JSON format. It also logs the raw UDP packets in PCAP files for deeper network analysis. Each packet is automatically organized by the source IP address, and the tool maintains detailed session logs for all captured activity. It’s a simple, efficient way to capture, decode, and store Meshtastic UDP traffic.
 
+<img src="/img/img1.jpg" alt="Mestastic Image" width="500px">
+
+
 ## Features
 
 - Listens for UDP multicast packets from Meshtastic nodes
